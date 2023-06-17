@@ -1,5 +1,11 @@
 ### Hi there 👋
+I am Menter ! Nice to see you here!
 
+I am a crypto enthusiast.
+
+### See my Socials:
+- [Twitter](https://twitter.com/IChegaev)
+- Discord: menterche2
 <!--
 **menterche/menterche** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
